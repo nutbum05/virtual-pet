@@ -1,4 +1,5 @@
-const Pet = require('../src/pet');
+
+
 function Pet() {}
 
 
